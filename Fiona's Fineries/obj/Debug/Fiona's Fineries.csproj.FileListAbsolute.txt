@@ -1,0 +1,33 @@
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\ApplicationInsights.config
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\csc.exe
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\vbc.exe
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\VBCSCompiler.exe
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Fiona's Fineries.dll.config
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Fiona's Fineries.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Fiona's Fineries.pdb
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.Web.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.ApplicationInsights.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.Web.xml
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.ApplicationInsights.xml
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\obj\Debug\Fiona's Fineries.csprojResolveAssemblyReference.cache
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\obj\Debug\Fiona's Fineries.dll
+c:\users\jason42\documents\visual studio 2015\Projects\Fiona's Fineries\Fiona's Fineries\obj\Debug\Fiona's Fineries.pdb

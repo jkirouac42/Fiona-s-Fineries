@@ -1,0 +1,53 @@
+﻿body {
+    background-image: url('ren village.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: static;
+}
+p{
+    color:#ffffff;
+    font-family: 'Tenor Sans', sans-serif;
+    text-decoration-color:#000000
+}
+
+.tinted-image {
+    background-size:cover;
+  background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(34, 51, 32, 0.45), 
+      rgba(39, 64, 34, 0.45)
+  )
+
+    /* bottom, image */
+    
+}
+.navbar-default{
+    background-color:transparent;
+}
+.navtext{
+    font-family: 'Tenor Sans', sans-serif;
+    color:#ffffff;
+    text-size-adjust:150%;
+}
+ul{
+    list-style-type:none;
+}
+li{
+    display:inline;
+    padding-right:15px;
+}
+.row1{
+    height:250px;
+}
+.text1{
+    float:left;
+    font-size:175%;
+}
+
+.pic1 {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
