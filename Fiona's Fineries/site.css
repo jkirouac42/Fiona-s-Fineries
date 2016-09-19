@@ -1,9 +1,12 @@
 ﻿body {
-    background-image: url('ren village.jpg');
+    background-image: url('ren village3.jpg');
+
     background-repeat: no-repeat;
     background-size: cover;
-    position: static;
+    background-position:center;
+   
 }
+
 p{
     color:#ffffff;
     font-family: 'Tenor Sans', sans-serif;
@@ -11,15 +14,14 @@ p{
 }
 
 .tinted-image {
+    height:1450px;
     background-size:cover;
   background: 
     /* top, transparent red, faked with gradient */ 
     linear-gradient(
       rgba(34, 51, 32, 0.45), 
       rgba(39, 64, 34, 0.45)
-  )
-
-    /* bottom, image */
+  )  /* bottom, image */
     
 }
 .navbar-default{
@@ -28,26 +30,80 @@ p{
 .navtext{
     font-family: 'Tenor Sans', sans-serif;
     color:#ffffff;
-    text-size-adjust:150%;
+    text-size-adjust:200%;
+    background-color:#808080;
+
+
 }
 ul{
     list-style-type:none;
+    margin-top:10px;
+   
 }
 li{
     display:inline;
     padding-right:15px;
+
+}
+.intro{
+    color:#ffffff;
+    font-family: 'Tenor Sans', sans-serif;
+    text-align:center;
+    padding:20px;
+    height:200px;
 }
 .row1{
-    height:250px;
+    height:300px;
+    object-position:top;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.row2{
+    height:350px;
+}
+.row3{
+    height:350px;
+
 }
 .text1{
     float:left;
     font-size:175%;
 }
+.text2{
+    float:right;
+    font-size:175%;
+}
+.text3{
+    float:left;
+    font-size:175%;
+    padding-top:15px;
+    margin-bottom:20px;
+}
 
 .pic1 {
      display: flex;
-    justify-content: center;
+    justify-content:center;
+    overflow:hidden;
+    vertical-align:top;
+    
+}
+.pic2{
+    display: flex;
+    justify-content:center;
     align-items: center;
-    overflow: hidden
+    overflow:hidden;
+}
+.pic3{
+    display: flex;
+    justify-content:center;
+    overflow:hidden;
+    vertical-align:top;
+    padding-top:25px;
+}
+.fbicon{
+   text-align:center;
+   padding-top:50px;
+}
+.fbcolor{
+    color:#a7a7a7;
 }
